@@ -1,4 +1,4 @@
-package com.taher.ordersystemservice.dto;
+package com.taher.ordersystemservice.dto.request;
 
 import com.taher.ordersystemservice.entity.OrderStatus;
 import jakarta.validation.constraints.NotNull;

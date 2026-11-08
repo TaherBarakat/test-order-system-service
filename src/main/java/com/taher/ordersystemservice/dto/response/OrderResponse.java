@@ -1,4 +1,4 @@
-package com.taher.ordersystemservice.dto;
+package com.taher.ordersystemservice.dto.response;
 
 import com.taher.ordersystemservice.entity.OrderStatus;
 

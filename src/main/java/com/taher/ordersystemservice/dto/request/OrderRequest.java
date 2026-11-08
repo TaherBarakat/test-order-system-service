@@ -1,4 +1,4 @@
-package com.taher.ordersystemservice.dto;
+package com.taher.ordersystemservice.dto.request;
 
 import jakarta.validation.constraints.DecimalMin;
 import jakarta.validation.constraints.NotBlank;
