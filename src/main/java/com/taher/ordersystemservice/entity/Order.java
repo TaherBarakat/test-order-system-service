@@ -25,6 +25,7 @@ public class Order {
     @Column(name = "product_name", nullable = false)
     private String productName;
 
+    @Column(nullable = false)
     private Integer quantity;
 
     @Column(nullable = false, precision = 10, scale = 2)
